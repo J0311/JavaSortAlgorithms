@@ -29,7 +29,6 @@ public class QuickSort {
 		System.out.println("\nAfter:");
 		System.out.println();
 		printArray(numbers);
-
 	}
 
 // Our Quick Sort method takes in 3 parameters: array input, low index (numbers
