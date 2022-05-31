@@ -52,7 +52,6 @@ public class BogoAlgorithm {
 			return true;
 		}
 
-		
 // for loop which compares numberList indexes to determine if sort for ascending order
 // was successful. If the previous index is greater than the following number being 
 // iterated, we return false:
@@ -64,7 +63,5 @@ public class BogoAlgorithm {
 		}
 
 		return true;
-
 	}
-
 }
