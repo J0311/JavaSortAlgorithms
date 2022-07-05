@@ -71,8 +71,7 @@ public class InsertionSort {
 // "insertion" portion which sets value of j in array for sorting
 			
 			inputArray[j + 1] = currentValue;
-		
-	}
+		}
 	
 	}
 }
