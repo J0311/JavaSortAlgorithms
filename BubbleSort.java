@@ -2,6 +2,7 @@
 // iterates through a list, compares adjacent elements, and SWAPS  them if they're in 
 // the wrong order. At the end of each iteration, the heaviest element gets "bubbled" 
 // to claim it's rightful position
+// space complexity of O(n). Horrible for larger data sets, ideal for small amounts of data
 
 import java.util.Random;
 
